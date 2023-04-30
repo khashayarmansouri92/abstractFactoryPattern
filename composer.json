@@ -1,0 +1,20 @@
+{
+    "name": "designpatterns/builderattern",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "autoload": {
+    "psr-4": {
+        "App\\" : "App"
+    }
+},
+    "authors": [
+    {
+        "name": "khashayar",
+        "email": "email@example.com"
+    }
+],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
